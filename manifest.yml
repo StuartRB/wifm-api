@@ -1,0 +1,6 @@
+---
+applications:
+- name: watchit-api
+  memory: 256M
+  instances: 1
+  path: build/libs/watchit-api-0.0.1-SNAPSHOT.jar
